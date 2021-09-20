@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: ''
   label: Home Page
-  create: none
+  create: documents
   match: index.md
 - type: directory
   path: posts
