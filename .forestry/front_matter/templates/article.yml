@@ -13,6 +13,7 @@ fields:
   label: Body
   template_types:
   - body-text
+  - image
   config:
     min: 
     max: 
