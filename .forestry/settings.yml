@@ -8,7 +8,7 @@ sections:
   path: ''
   label: Home Page
   create: none
-  match: index.njk
+  match: index.md
 - type: directory
   path: posts
   label: Posts
