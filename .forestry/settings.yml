@@ -9,9 +9,6 @@ sections:
   label: Posts
   create: all
   match: "**/*"
-- type: document
-  path: index.njk
-  label: Home Page
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
