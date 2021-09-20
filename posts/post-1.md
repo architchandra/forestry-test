@@ -1,6 +1,6 @@
 ---
 layout: layout.njk
-title: Blog Post 1
+title: Blog Post 1 - Updated
 body:
 - template: body-text
   text: Sed haec quis possit intrepidus aestimare tellus. Mercedem aut nummos unde
