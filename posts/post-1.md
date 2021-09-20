@@ -10,4 +10,3 @@ body:
   - "/images/2021/09/image-from-ios.jpg"
 
 ---
-Test blog post content
