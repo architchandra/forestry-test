@@ -1,5 +1,5 @@
 ---
-layout: layout.liquid
+layout: layout.njk
 title: Blog Post 1 - Updated
 body:
 - template: text
