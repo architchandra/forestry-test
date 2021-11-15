@@ -26,4 +26,5 @@ fields:
     max: 
 pages:
 - posts/test-2.md
+- posts/test-3.md
 - posts/test-post.md
