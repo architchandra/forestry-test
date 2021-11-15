@@ -25,4 +25,5 @@ fields:
     min: 
     max: 
 pages:
+- posts/test-2.md
 - posts/test-post.md
