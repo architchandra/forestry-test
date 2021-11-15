@@ -3,6 +3,13 @@ label: Article
 hide_body: true
 display_field: title
 fields:
+- name: layout
+  type: text
+  config:
+    required: true
+  label: Layout
+  hidden: true
+  default: layout.liquid
 - name: title
   type: text
   config:
